@@ -96,3 +96,9 @@ Project inspired by: [YouTube Tutorial](https://youtu.be/_hBA3PpnsyE)
 ---
 
 **A practical implementation of digital logic concepts for real-world water management applications.**
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b330991d-84e5-4c4e-8b9f-c124abe54e3f" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ddfb723a-e3d5-42d2-a106-0ce9d4ebaa2b" />
+<img width="873" height="555" alt="image" src="https://github.com/user-attachments/assets/f4049d11-71d4-43a8-9338-9d89ced9db88" />
+
+
